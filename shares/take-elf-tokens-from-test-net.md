@@ -1,4 +1,4 @@
-Send a `Take` tx to [Faucet Contract](https://explorer-test.aelf.io/contract?#https%3A%2F%2Fexplorer-test.aelf.io%2Fviewer%2Faddress.html%23%2Fcontract%2F2M24EKAecggCnttZ9DUUMCXi4xC67rozA87kFgid9qEwRUMHTs) deployed to AElf TestNet MainChain.
+Send a `Take` tx to [Faucet Contract](https://explorer-test.aelf.io/contract?#https%3A%2F%2Fexplorer-test.aelf.io%2Fviewer%2Faddress.html%23%2Fcontract%2F2M24EKAecggCnttZ9DUUMCXi4xC67rozA87kFgid9qEwRUMHTs) deployed to AElf TestNet MainChain to get some ELF tokens of AElf Testnet.
 
 Currently the url https://aelf-test-node.aelf.io is available.
 
