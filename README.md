@@ -11,8 +11,7 @@ In this repo, you can:
 - Propose new features or ask for help by openning an issue.
 
 # AElf Public Web API
-[MainNet]
-
+## MainNet
 MainChain:
 
 https://aelf-public-node.aelf.io
@@ -21,7 +20,7 @@ SideChain(tDVV):
 
 https://tdvv-public-node.aelf.io
 
-[TestNet]
+## TestNet
 
 MainChain:
 
