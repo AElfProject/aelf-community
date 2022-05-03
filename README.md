@@ -10,3 +10,18 @@ In this repo, you can:
 - Check the Frequently Asked Questions in the [faq folder](faq)
 - Propose new features or ask for help by openning an issue.
 
+# AElf Public Web API
+[MainNet]
+MainChain:
+https://aelf-public-node.aelf.io
+SideChain(tDVV):
+https://tdvv-public-node.aelf.io
+
+[TestNet]
+MainChain:
+https://aelf-test-node.aelf.io
+SideChain(tDVV):
+https://tdvv-test-node.aelf.io
+
+# Recent Articles
+- [Take ELF tokens from AElf Testnet](shares/take-elf-tokens-from-test-net.md)
