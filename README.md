@@ -39,8 +39,9 @@ https://tdvv-test-node.aelf.io
 
 Q:Will anyone show me how to swap elf from Binance exchange into aelf network?
 
-A:Please follow the tutorial here: https://medium.com/aelfblockchain/mainnet-token-swap-on-aelf-website-official-tutorial-8c1e1181daa0
-https://medium.com/aelfblockchain/q-a-all-you-need-to-know-about-the-aelf-mainnet-token-swap-9b6f16f2f334
+A:Please follow the tutorial here: 
+- [Mainnet Token Swap On AElf](https://medium.com/aelfblockchain/mainnet-token-swap-on-aelf-website-official-tutorial-8c1e1181daa0) 
+- [All You Need To Know About the AElf Mainnet Token Swap](https://medium.com/aelfblockchain/q-a-all-you-need-to-know-about-the-aelf-mainnet-token-swap-9b6f16f2f334)
 
 Q:How can I swap mainnet to erc?
 
@@ -48,8 +49,7 @@ A:It's only one way, you can only swap ERC20 to mainnet elf.
 
 Q:Hi guys, got a quick question. Will or is binance supporting token swap? Thank you
 
-A:Hi, there. Binance didn’t support yet, but we have opened the method to swap bep20 to mainnet ELF
-https://aelfblockchain.medium.com/tutorial-swap-your-bep20-elf-tokens-to-the-mainnet-tokens-3aed40cdb1af
+A:Hi, there. Binance didn’t support yet, but we have opened the method to swap bep20 to mainnet ELF. Check this: [Swap Your BEP20 ELF Tokens To the Mainnet Tokens](https://aelfblockchain.medium.com/tutorial-swap-your-bep20-elf-tokens-to-the-mainnet-tokens-3aed40cdb1af)
 
 ## Developers help
 
