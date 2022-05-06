@@ -40,7 +40,10 @@ If you are looking for a safe place, where you can familiarize yourself with the
 
 # Meet our contributors
 
-#
+When Slack seems like it’s going too fast, and you just need a quick answer from a human...
+
+Meet Our Contributors gives you a monthly one-hour opportunity to ask questions about our upstream community, watch interviews with our contributors, and participate in peer code reviews.
+
 
 # Recent Articles
 - [Take ELF tokens from AElf Testnet](shares/take-elf-tokens-from-test-net.md)
