@@ -36,6 +36,8 @@ Links in lead to many relevant technical topics.
 
 # Contributor playground
 
+If you are looking for a safe place, where you can familiarize yourself with the pull request and issue review process in aelf, then the Contributor Playground is the right place for you.
+
 # Meet our contributors
 
 #
