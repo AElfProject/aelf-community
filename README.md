@@ -34,6 +34,12 @@ https://tdvv-test-node.aelf.io
 
 Links in lead to many relevant technical topics.
 
+# Contributor playground
+
+# Meet our contributors
+
+#
+
 # Recent Articles
 - [Take ELF tokens from AElf Testnet](shares/take-elf-tokens-from-test-net.md)
 
