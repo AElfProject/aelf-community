@@ -30,6 +30,10 @@ SideChain(tDVV):
 
 https://tdvv-test-node.aelf.io
 
+## Learn to Build
+
+Links in lead to many relevant technical topics.
+
 # Recent Articles
 - [Take ELF tokens from AElf Testnet](shares/take-elf-tokens-from-test-net.md)
 
