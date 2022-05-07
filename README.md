@@ -36,11 +36,11 @@ Links in lead to many relevant technical topics.
 
 ## The process of developing and contributing code to aelf
 
-Markup: Contributor Guide to learn about how to contribute to aelf
-GitHub Issues: How incoming issues are triaged.
-Pull Request Process: When and why pull requests are closed.
-Getting Recent Builds: How to get recent builds including the latest builds that pass CI.
-Automated Tools: Descriptions of the automation that is running on our GitHub repository.
+- Contributor Guide to learn about how to contribute to aelf
+- GitHub Issues: How incoming issues are triaged.
+- Pull Request Process: When and why pull requests are closed.
+- Getting Recent Builds: How to get recent builds including the latest builds that pass CI.
+- Automated Tools: Descriptions of the automation that is running on our GitHub repository.
 
 # Contributor playground
 
