@@ -34,13 +34,21 @@ https://tdvv-test-node.aelf.io
 
 Links in lead to many relevant technical topics.
 
+## The process of developing and contributing code to aelf
+
+Markup: Contributor Guide to learn about how to contribute to aelf
+GitHub Issues: How incoming issues are triaged.
+Pull Request Process: When and why pull requests are closed.
+Getting Recent Builds: How to get recent builds including the latest builds that pass CI.
+Automated Tools: Descriptions of the automation that is running on our GitHub repository.
+
 # Contributor playground
 
 If you are looking for a safe place, where you can familiarize yourself with the pull request and issue review process in aelf, then the Contributor Playground is the right place for you.
 
 # Meet our contributors
 
-When Slack seems like it’s going too fast, and you just need a quick answer from a human...
+When the work seems like it’s going too fast, and you just need a quick answer from a human...
 
 Meet Our Contributors gives you a monthly one-hour opportunity to ask questions about our upstream community, watch interviews with our contributors, and participate in peer code reviews.
 
