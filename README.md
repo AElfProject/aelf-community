@@ -32,18 +32,7 @@ https://tdvv-test-node.aelf.io
 
 # Learn to Build
 
-[Links](https://github.com/AElfProject/aelf-community/blob/main/guide.md) in lead to many relevant technical topics.
-
-
-## Developing against the API
-
-- API Conventions: Defining the verbs and resources used in the aelf API.
-- API Client Libraries: A list of existing client libraries, both supported and user-contributed.
-
-## Writing plugins
-
-- Authentication: The current and planned states of authentication tokens.
-- Authorization Plugins: Authorization applies to all HTTP requests on the main apiserver port. This doc explains the available authorization implementations.
+Links in lead to many relevant technical topics.[Check here](https://github.com/AElfProject/aelf-community/blob/main/guide.md)
 
 # Contributor playground
 
