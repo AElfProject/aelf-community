@@ -1,5 +1,5 @@
 # Table of Contents
-The developer guide is for anyone wanting to either write code which directly accesses the Kubernetes API, or to contribute directly to the Kubernetes project. 
+The developer guide is for anyone wanting to either write code which directly accesses the aelf API, or to contribute directly to the aelf project. 
 
 ## The process of developing and contributing code to aelf
 
