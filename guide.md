@@ -17,3 +17,15 @@ The developer guide is for anyone wanting to either write code which directly ac
 - Coding Conventions: Coding style advice for contributors.([Check here](https://github.com/AElfProject/AElf/blob/dev/CODE_OF_CONDUCT.md))
 - Document Conventions: Document style advice for contributors.([Check here](https://github.com/AElfProject/AElf/blob/dev/CODE_OF_CONDUCT.md))
 - Running a cluster locally: A fast and lightweight local cluster deployment for development.
+
+## Developing against the aelf API
+
+- API Conventions:  Defining the verbs and resources used in the aelf API.
+- API Client Libraries: A list of existing client libraries, both supported and user-contributed.
+
+## Writing plugins
+
+- Authentication: The current and planned states of authentication tokens.
+- Authorization Plugins: Authorization applies to all HTTP requests on the main apiserver port. This doc explains the available authorization implementations.
+- Admission Control Plugins
+
