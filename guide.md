@@ -13,7 +13,7 @@ The developer guide is for anyone wanting to either write code which directly ac
 
 - Development Guide: Setting up your development environment.([Check here](https://docs.aelf.io/en/latest/getting-started/development-environment/environment-setup.html))
 - Testing: How to run unit, integration, and end-to-end tests in your development sandbox.([Check here](https://docs.aelf.io/en/latest/tutorials/testnet.html))
-- Conformance Testing： What is conformance testing and how to create/manage them.
-- Coding Conventions: Coding style advice for contributors.
+- Conformance Testing： What is conformance testing and how to create/manage them.([Check here](https://docs.aelf.io/en/latest/tutorials/testnet.html))
+- Coding Conventions: Coding style advice for contributors.([Check here](https://github.com/AElfProject/AElf/blob/dev/CODE_OF_CONDUCT.md))
 - Document Conventions: Document style advice for contributors.
 - Running a cluster locally: A fast and lightweight local cluster deployment for development.
