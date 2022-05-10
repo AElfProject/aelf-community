@@ -22,7 +22,7 @@ Before you get started, you will need to [signup](https://github.com) for a GitH
 
 ### Code of Conduct
 
-Please make sure to read and observe the [Code of Conduct](https://github.com/AElfProject/AElf/blob/dev/CODE_OF_CONDUCT.md)
+Please make sure to read and observe the [Code of Conduct](https://github.com/AElfProject/AElf/blob/dev/CODE_OF_CONDUCT.md).
 
 ### Setting up your development environment
 
