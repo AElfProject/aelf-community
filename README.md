@@ -32,7 +32,7 @@ https://tdvv-test-node.aelf.io
 
 # Learn to Build
 
-Links in lead to many relevant technical topics.
+[Links](https://github.com/AElfProject/aelf-community/blob/main/guide.md) in lead to many relevant technical topics.
 
 
 ## Developing against the API
