@@ -4,7 +4,7 @@ The developer guide is for anyone wanting to either write code which directly ac
 ## The process of developing and contributing code to aelf
 
 - Contributor Guide([Please start here](https://github.com/AElfProject/aelf-community/blob/main/getstarted.md)) to learn about how to contribute to aelf
-- GitHub Issues: How incoming issues are triaged([Check here](https://github.com/AElfProject/aelf-community/issues)).
+- GitHub Issues: How incoming issues are triaged.([Check here](https://github.com/AElfProject/aelf-community/issues))
 - Pull Request Process: When and why pull requests are closed.([Check here](https://github.com/AElfProject/aelf-community/blob/main/guidepull.md))
 - Getting Recent Builds: How to get recent builds including the latest builds that pass CI.
 - Automated Tools: Descriptions of the automation that is running on our GitHub repository.
