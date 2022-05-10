@@ -28,4 +28,4 @@ Please make sure to read and observe the [Code of Conduct](https://github.com/AE
 
 It is not required to set up a developer environment in order to contribute to aelf.
 
-If you plan to contribute code changes, review the [developer resources](https://github.com/kubernetes/community/blob/master/contributors/devel/README.md#setting-up-your-dev-environment-coding-and-debugging#Setting) page for how to set up your environment.
+If you plan to contribute code changes, review the [developer resources](https://github.com/kubernetes/community/blob/master/contributors/devel/README.md#setting-up-your-dev-environment-coding-and-debugging#Setting up your dev environment, coding, and debugging) page for how to set up your environment.
