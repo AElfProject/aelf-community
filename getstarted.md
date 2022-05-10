@@ -24,3 +24,8 @@ Before you get started, you will need to [signup](https://github.com) for a GitH
 
 Please make sure to read and observe the [Code of Conduct](https://github.com/AElfProject/AElf/blob/dev/CODE_OF_CONDUCT.md)
 
+### Setting up your development environment
+
+It is not required to set up a developer environment in order to contribute to aelf.
+
+If you plan to contribute code changes, review the [developer resources](https://github.com/kubernetes/community/blob/master/contributors/devel/README.md#setting-up-your-dev-environment-coding-and-debugging#Setting up your dev environment, coding, and debugging) page for how to set up your environment.
