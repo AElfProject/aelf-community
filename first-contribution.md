@@ -16,3 +16,11 @@ Here are some things you can do today to get started contributing:
 
 There are multiple repositories within the aelf organization. Each repository has beginner-friendly issues that are a great place to get started on your contributor journey. Another way to get started is to find a documentation improvement, such as a missing/broken link, which will give you exposure to the code submission/review process without the added complication of technical depth.
 
+## Issue Assignment in Github
+
+When you've found an issue to work on, you can assign it to yourself.
+
+- Reply with /assign or /assign @yourself on the issue you'd like to work on
+
+- Your name will then be listed under, Assignees.
+
