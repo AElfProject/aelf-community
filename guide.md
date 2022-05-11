@@ -20,8 +20,8 @@ The developer guide is for anyone wanting to either write code which directly ac
 
 ## Developing against the aelf API
 
-- API Conventions:  Defining the verbs and resources used in the aelf API.
-- API Client Libraries: A list of existing client libraries, both supported and user-contributed.
+- API Conventions:  Defining the verbs and resources used in the aelf API.([Check here](https://github.com/AElfProject/AElf/blob/dev/docs-sphinx/resources/wallet-and-explorer/explorer-api.md))
+- API Client Libraries: A list of existing client libraries, both supported and user-contributed.([Check here](https://github.com/AElfProject/AElf/blob/dev/docs/resources/wallet-and-explorer/explorer-api.md))
 
 ## Writing plugins
 
