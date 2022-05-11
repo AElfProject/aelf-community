@@ -4,6 +4,8 @@
 
 Have you ever wanted to contribute to the coolest cloud technology? This guide will help you understand the overall organization of the aelf project, and direct you to the best places to get started contributing. You'll be able to pick up issues, write code to fix them, and get your work reviewed and merged.
 
+This document is the single source of truth for how to contribute to the code base. Feel free to browse the [open issues](https://github.com/AElfProject/aelf-community/issues) and file new ones, all feedback is welcome!
+
 ## Contributor Guide
 
 Welcome to aelf! This guide is broken up into the following sections. It is recommended that you follow these steps in order:
