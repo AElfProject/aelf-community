@@ -29,3 +29,7 @@ The developer guide is for anyone wanting to either write code which directly ac
 - Authorization Plugins: Authorization applies to all HTTP requests on the main apiserver port. This doc explains the available authorization implementations.
 - Admission Control Plugins([Check here](https://github.com/AElfProject/AElf/blob/dev/src/AElf.CrossChain.Core/Communication/ICrossChainCommunicationPlugin.cs))
 
+## Building releases
+
+See the [aelf/release](https://github.com/AElfProject/AElf/releases) repository for details on creating releases and related tools and helper scripts.
+
