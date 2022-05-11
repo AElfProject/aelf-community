@@ -25,7 +25,7 @@ The developer guide is for anyone wanting to either write code which directly ac
 
 ## Writing plugins
 
-- Authentication: The current and planned states of authentication tokens.
+- Authentication: The current and planned states of authentication tokens.([Check here](https://github.com/AElfProject/AElf/blob/dev/src/AElf.Runtime.CSharp.ExecutiveTokenPlugin/ExecutiveTokenPluginCSharpRuntimeAElfModule.cs))
 - Authorization Plugins: Authorization applies to all HTTP requests on the main apiserver port. This doc explains the available authorization implementations.
 - Admission Control Plugins([Check here](https://github.com/AElfProject/AElf/blob/dev/src/AElf.CrossChain.Core/Communication/ICrossChainCommunicationPlugin.cs))
 
