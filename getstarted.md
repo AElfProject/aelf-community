@@ -11,7 +11,7 @@ This document is the single source of truth for how to contribute to the code ba
 Welcome to aelf! This guide is broken up into the following sections. It is recommended that you follow these steps in order:
 
 - [Prerequisites](https://github.com/AElfProject/aelf-community/blob/main/getstarted.md#Prerequisites) - tasks you need to complete before you can start contributing to aelf
-- Your First Contribution - things you'll need to know before making your first contribution
+- [Your First Contribution](https://github.com/AElfProject/aelf-community/blob/main/first-contribution.md) - things you'll need to know before making your first contribution
 - Contributing - the main reference guide to contributing to aelf
 
 ## Prerequisites
