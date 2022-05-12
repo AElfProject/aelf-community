@@ -17,7 +17,7 @@ There are two aspects of code review: giving and receiving.
 
 To make it easier for your PR to receive reviews, consider the reviewers will need you to:
 
-- follow the project coding conventions
+- follow the project [coding conventions](https://github.com/AElfProject/AElf/blob/dev/CODE_OF_CONDUCT.md)
 
 - write good commit messages
 
