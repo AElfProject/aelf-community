@@ -2,7 +2,7 @@
 
 Hello new contributors!
 
-This repository will be used as a safe space for participants in the New Contributor Onboarding Track to familiarize themselves with (some of) the Kubernetes Project's review and pull request processes.
+This repository will be used as a safe space for participants in the New Contributor Onboarding Track to familiarize themselves with (some of) the aelf Project's review and pull request processes.
 
 A [Youtube playlist](https://www.youtube.com/c/aelfblockchain) of the New Contributor workshop has been posted.
 
