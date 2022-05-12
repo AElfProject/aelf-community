@@ -34,10 +34,6 @@ https://tdvv-test-node.aelf.io
 
 Links in lead to many relevant technical topics.([Check here](https://github.com/AElfProject/aelf-community/blob/main/guide.md))
 
-# Contributor playground
-
-If you are looking for a safe place, where you can familiarize yourself with the pull request and issue review process in aelf, then the Contributor Playground is the right place for you.
-
 # Meet our contributors
 
 When the work seems like it’s going too fast, and you just need a quick answer from a human...
