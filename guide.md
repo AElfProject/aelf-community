@@ -33,3 +33,12 @@ The developer guide is for anyone wanting to either write code which directly ac
 
 See the [aelf/release](https://github.com/AElfProject/AElf/releases) repository for details on creating releases and related tools and helper scripts.
 
+## Nodes
+
+If you want to be a node of aelf, you need to read the following instructions
+
+### Mainchain node
+
+
+### Sidechain node
+
