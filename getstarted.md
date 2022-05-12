@@ -16,7 +16,7 @@ Welcome to aelf! This guide is broken up into the following sections. It is reco
 
 ## Prerequisites
 
-Before submitting code to Kubernetes, you should first complete the following prerequisites. Completing these steps will make your first contribution easier:
+Before submitting code to aelf, you should first complete the following prerequisites. Completing these steps will make your first contribution easier:
 
 ### Create a GitHub account
 
