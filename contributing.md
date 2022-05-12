@@ -9,11 +9,6 @@ As a potential contributor, your changes and ideas are welcome at any hour of th
 
 Pull requests are often called a "PR". aelf generally follows the standard [github pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) process.
 
-Common new contributor PR issues are:
-
-- not having correctly signed the CLA ahead of your first PR. See the CLA page for troubleshooting help, in some cases you might need to file a ticket with the CNCF to resolve a CLA problem.
-
-- dealing with test cases which fail on your PR, unrelated to the changes you introduce 
 
 ## Code Review
 
