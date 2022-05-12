@@ -24,3 +24,6 @@ When you've found an issue to work on, you can assign it to yourself.
 
 - Your name will then be listed under, Assignees.
 
+## File an Issue
+
+Not ready to contribute code, but see something that needs work? While the community encourages everyone to contribute code, it is also appreciated when someone reports an issue. Issues should be filed under the appropriate aelf-community subrepository. For example, a documentation issue should be opened in [aelf-community](https://github.com/AElfProject/aelf-community/issues). Make sure to adhere to the prompted submission guidelines while opening an issue. 
