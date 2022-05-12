@@ -41,4 +41,6 @@ To make it easier for your PR to receive reviews, consider the reviewers will ne
 
 ## Testing
 
+You may check all of the tesing settings from [aelf doc](https://docs.aelf.io/en/latest/tutorials/testnet.html#setup-the-database), grab anything you need here.
+
 
