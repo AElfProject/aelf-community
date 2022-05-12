@@ -14,7 +14,7 @@ Here are some things you can do today to get started contributing:
 
 ## Find a good first topic
 
-There are multiple repositories within the aelf organization. Each repository has beginner-friendly issues that are a great place to get started on your contributor journey. Another way to get started is to find a documentation improvement, such as a missing/broken link, which will give you exposure to the code submission/review process without the added complication of technical depth.
+There are [multiple repositories](https://github.com/AElfProject) within the aelf organization. Each repository has beginner-friendly issues that are a great place to get started on your contributor journey. Another way to get started is to find a documentation improvement, such as a missing/broken link, which will give you exposure to the code submission/review process without the added complication of technical depth.
 
 ## Issue Assignment in Github
 
