@@ -7,7 +7,7 @@ As a potential contributor, your changes and ideas are welcome at any hour of th
 
 ## Opening a Pull Request
 
-Pull requests are often called a "PR". aelf generally follows the standard github pull request process.
+Pull requests are often called a "PR". aelf generally follows the standard [github pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) process.
 
 Common new contributor PR issues are:
 
