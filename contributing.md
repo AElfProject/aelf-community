@@ -25,6 +25,18 @@ To make it easier for your PR to receive reviews, consider the reviewers will ne
 
 ## Best practices
 
+- Write clear and meaningful git commit messages.
+
+- When you make a PR for small change (such as fixing a typo, style change, or grammar fix), please squash your commits so that we can maintain a cleaner git history.
+
+- Make sure you include a clear and detailed PR description explaining the reasons for the changes, and ensuring there is sufficient information for the reviewer to understand your PR.
+
+- Additional Readings:
+
+  - [chris.beams.io/posts/git-commit/](https://cbea.ms/git-commit/)
+  - [github.com/blog/1506-closing-issues-via-pull-requests](https://github.blog/2013-05-14-closing-issues-via-pull-requests/)
+  - [davidwalsh.name/squash-commits-git](https://davidwalsh.name/squash-commits-git)
+  - https://mtlynch.io/code-review-love/
 
 
 ## Testing
