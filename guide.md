@@ -36,8 +36,4 @@ See the [aelf/release](https://github.com/AElfProject/AElf/releases) repository 
 
 If you want to be a node of aelf, you need to read the following instructions
 
-### Mainchain node
-
-
-### Sidechain node
 
