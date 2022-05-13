@@ -6,6 +6,8 @@ This repository will be used as a safe space for participants in the New Contrib
 
 A [Youtube playlist](https://www.youtube.com/c/aelfblockchain) of the New Contributor workshop has been posted.
 
+## list 
+
 ## Community, discussion, contribution, and support
 
 Learn how to engage with the aelf community on the [aelf main page](https://aelf.com/team.html).
