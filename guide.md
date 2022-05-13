@@ -34,6 +34,6 @@ See the [aelf/release](https://github.com/AElfProject/AElf/releases) repository 
 
 ## Nodes
 
-If you want to be a node of aelf, you need to read the following instructions
+If you want to be a node of aelf, you need to read the [following instructions](https://docs.aelf.io/en/latest/getting-started/smart-contract-development/greeter-contract/run.html?)
 
 
