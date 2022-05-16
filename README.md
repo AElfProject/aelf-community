@@ -16,9 +16,13 @@ MainChain:
 
 https://aelf-public-node.aelf.io
 
+chain ID: 9992731
+
 SideChain(tDVV):
 
 https://tdvv-public-node.aelf.io
+
+chain ID: 1866392
 
 ## TestNet
 
