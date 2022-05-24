@@ -60,6 +60,16 @@ Q:Hi guys, got a quick question. Will or is binance supporting token swap? Thank
 
 A:Hi, there. Binance didn’t support yet, but we have opened the method to swap bep20 to mainnet ELF. Check this: [Swap Your BEP20 ELF Tokens To the Mainnet Tokens](https://aelfblockchain.medium.com/tutorial-swap-your-bep20-elf-tokens-to-the-mainnet-tokens-3aed40cdb1af)
 
+Q:Is there any article about token swap?
+
+A:Yes, you can follow these 3 articles in the following:
+
+https://medium.com/aelfblockchain/aelf-oracle-episode-1-what-is-an-oracle-how-does-it-work-eed81998b138
+
+https://medium.com/aelfblockchain/aelf-oracle-episode-3-demo-f1ead3193f72
+
+https://medium.com/aelfblockchain/aelf-oracle-episode-2-what-did-aelf-oracle-do-in-the-mainnet-swap-3a1706953d97
+
 ## Developers help
 
 Q:How many Dapps are deployed on testnet now? How do you schedule for launching on the mainnet?
