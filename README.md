@@ -79,3 +79,10 @@ A:There are 5-7 now, actually we are waiting for them to complete the whole cont
 Q:Is there any Dapps based on elf chain?
 
 A:Yes, but currently all the dapps are deployed on aelf testnet, once those Dapps pass the test, they will be online.
+
+
+## Address problem
+
+Q: When I doing trasactions and it needs me to input my address, and I saw it sometimes the address is with "_ AELF" at the end , and some times whitout, what is the difference?
+
+A: When you are searching or checking your transactions, it will show your address with "_ AELF" at the end, and when you are using it in transaction, you only need to input your address without "_ AELF".
