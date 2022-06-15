@@ -36,7 +36,8 @@ MainChain:
 
 https://aelf-test-node.aelf.io
 
-SideChain(tDVW)
+SideChain(tDVW):
+
 https://tdvw-test-node.aelf.io
 
 (obsolete)SideChain(tDVV):
