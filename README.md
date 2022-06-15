@@ -18,7 +18,13 @@ https://aelf-public-node.aelf.io
 
 chain ID: 9992731
 
-### SideChain(tDVV):
+### SideChain(tDVW):
+
+https://tdvw-public-node.aelf.io
+
+chain ID: 1931928
+
+### (obsolete)SideChain(tDVV):
 
 https://tdvv-public-node.aelf.io
 
@@ -30,7 +36,10 @@ MainChain:
 
 https://aelf-test-node.aelf.io
 
-SideChain(tDVV):
+SideChain(tDVW)
+https://tdvw-test-node.aelf.io
+
+(obsolete)SideChain(tDVV):
 
 https://tdvv-test-node.aelf.io
 
